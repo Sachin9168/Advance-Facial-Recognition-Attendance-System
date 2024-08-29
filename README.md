@@ -1,1 +1,1 @@
-# Ai-Based-Face-Attendance-System
+# AI-Based-Face-Attendance-System
