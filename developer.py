@@ -22,10 +22,6 @@ class Developer:
                           fg="black")
         sachin_lbl.place(x=0, y=45, width=1400, height=45)
 
-
-
-
-
 if __name__ == "__main__":
     root = Tk()
     obj = Developer(root)
