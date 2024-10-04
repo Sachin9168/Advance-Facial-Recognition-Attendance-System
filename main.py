@@ -200,7 +200,7 @@ class Face_Recognition_System:
         self.app = Attendence(self.new_window)
 
     def iExit(self):
-        self.iExit=tkinter.messagebox.askyesno("Face Recognition","Are you sure exit AI Based Face Attendence System?",parent=self.root)
+        self.iExit=tkinter.messagebox.askyesno("Face Recognition","Are you sure exit Advance Facial Recognition Attendance System?",parent=self.root)
 
         if self.iExit>0:
             self.root.destroy()
