@@ -8,7 +8,7 @@ class Face_Recognition:
     def __init__(self, root):
         self.root = root
         self.root.geometry("1530x790+0+0")
-        self.root.title("AI Based Face Attendance System")
+        self.root.title("Advance Facial Recognition Attendance System")
 
         title_lbl = Label(self.root, text="FACE RECOGNITION", font=("times new roman", 35, "bold"), bg="white",
                           fg="darkgreen")
