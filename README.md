@@ -1,4 +1,4 @@
-# AI-Based-Face-Attendance-System
+# Advance-Facial-Recognition-Attendance-System
 
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/027524c4-2f89-46c5-b774-0a85ed8f8f5b)
