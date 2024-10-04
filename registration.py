@@ -8,7 +8,7 @@ class Register:
     def __init__(self, root):
         self.root = root
         self.root.geometry("1530x790+0+0")
-        self.root.title("AI Based Face Attendance System")
+        self.root.title("Advance Facial Recognition Attendance System")
 
         #============================= variable=================================
         self.var_fname = StringVar()
@@ -31,7 +31,7 @@ class Register:
         frame = Frame(self.root, bg="white")
         frame.place(x=350, y=120, width=700, height=540)
 
-        title_lbl = Label(self.root, text="AI BASED FACE ATTENDANCE SYSTEM", font=("times new roman", 25, "bold"),
+        title_lbl = Label(self.root, text="ADVANCE FACIAL RECOGNITION ATTENDANCE SYSTEM", font=("times new roman", 18, "bold"),
                           bg="blue", fg="white")
         title_lbl.place(x=350, y=60, width=700, height=60)
 
