@@ -15,7 +15,7 @@ class Face_Recognition_System:
     def __init__(self, root):
         self.root = root
         self.root.geometry("1530x790+0+0")
-        self.root.title("AI Based Face Attendance System")
+        self.root.title("Advance Facial Recognition Attendance System")
 
         # first image
         img = Image.open(r"C:\Users\LENOVO\Desktop\Face recognition system\image2.jpeg")
@@ -52,7 +52,7 @@ class Face_Recognition_System:
         bg_img.place(x=0, y=130, width=1400, height=590)
 
 
-        title_lbl=Label(bg_img,text="        AI BASED FACE ATTENDANCE SYSTEM ", font=("times new roman",35,"bold"),bg="white",fg="red")
+        title_lbl=Label(bg_img,text="ADVANCE FACIAL RECOGNITION ATTENDANCE SYSTEM", font=("times new roman",28,"bold"),bg="white",fg="red")
         title_lbl.place(x=0,y=0,width=1185,height=45)
 
 
