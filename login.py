@@ -10,7 +10,7 @@ class Help:
     def __init__(self, root):
         self.root = root
         self.root.geometry("1530x790+0+0")
-        self.root.title("AI Based Face Attendance System")
+        self.root.title("Advance Facial Recognition Attendance System")
 
         self.var_email = StringVar()
         self.var_pass = StringVar()
@@ -36,7 +36,7 @@ class Help:
         f_1b2 = Label(self.root, image=self.photoimg_logo)
         f_1b2.place(x=630, y=150, width=100, height=100)
 
-        title_lbl = Label(self.root, text="AI BASED FACE ATTENDANCE SYSTEM", font=("times new roman", 15, "bold"),
+        title_lbl = Label(self.root, text="ADVANCE FACIAL RECOGNITION ATTENDANCE SYSTEM", font=("times new roman", 15, "bold"),
                           bg="black", fg="white")
         title_lbl.place(x=490, y=260, width=390, height=30)
 
