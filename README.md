@@ -1,32 +1,27 @@
 # Advance-Facial-Recognition-Attendance-System
 
-
-![Screenshot (2)](https://github.com/user-attachments/assets/027524c4-2f89-46c5-b774-0a85ed8f8f5b)
-
-
-![Screenshot (10)](https://github.com/user-attachments/assets/de98fc97-705c-4672-89b8-fb302835f71c)
+![Screenshot (13)](https://github.com/user-attachments/assets/7653e3cf-a4c4-4450-a088-b7902b79dda7)
 
 
-![Screenshot (3)](https://github.com/user-attachments/assets/844f9c1a-f949-4cb9-807f-4808733c58b9)
+![Screenshot (14)](https://github.com/user-attachments/assets/cb7b462d-63e2-414d-9d0b-34a3e205fc3a)
 
 
-![Screenshot (4)](https://github.com/user-attachments/assets/53f9509f-f768-4f44-9677-e8069ac11f6b)
+![Screenshot (15)](https://github.com/user-attachments/assets/4334cd8e-3c26-468b-ab58-1d7f0f93728b)
 
 
-![Screenshot (5)](https://github.com/user-attachments/assets/e1b57047-7ecd-4690-bcee-05fdec32ba4a)
+![Screenshot (16)](https://github.com/user-attachments/assets/0adcc2d7-bcfd-4a5a-987f-bca6b4487c6f)
 
 
-![Screenshot (6)](https://github.com/user-attachments/assets/d92e9ca4-3310-4d89-9aa2-99271f628d29)
+![Screenshot (17)](https://github.com/user-attachments/assets/a47945ad-26d4-4da6-8651-899f984a073e)
 
 
-
-![Screenshot (7)](https://github.com/user-attachments/assets/2b3a6a04-b456-4032-8a5d-8bcae2ac6bf4)
-
-
-![Screenshot (8)](https://github.com/user-attachments/assets/9804dc0d-9cad-49ee-af54-8240c955a380)
+![Screenshot (19)](https://github.com/user-attachments/assets/0598a3b4-a7da-4e0d-bc79-1f5229f5545e)
 
 
-![Screenshot (9)](https://github.com/user-attachments/assets/aa3a6042-bf7f-42bc-92a6-4c5938bed655)
+![Screenshot (20)](https://github.com/user-attachments/assets/4de4877a-0e44-4ff4-9204-2288cf58ff79)
 
 
+![Screenshot (21)](https://github.com/user-attachments/assets/f46a2efc-ba33-47ec-b787-2a39bf88bb60)
 
+
+![Screenshot (22)](https://github.com/user-attachments/assets/1448a06e-6019-4a58-8149-d52c30e1be65)
