@@ -1,4 +1,4 @@
-# Advance-Facial-Recognition-Attendance-System
+# Facial-Recognition-Attendance-System
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/7653e3cf-a4c4-4450-a088-b7902b79dda7)
 
